@@ -1,0 +1,169 @@
+.background{
+    margin: 50px 400px ;
+    border: 1px solid gray;
+    padding: 5px;
+    height: 1650px;
+    width: 500px;
+    background-color: rgb(83, 76, 76);
+}
+.heading{
+    border: 0px solid red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    color:tomato;
+    position: absolute;
+    top: 70px;
+    left: 590px;
+}
+.table1{
+    padding: 20px;
+    position: absolute;
+    top: 180px;
+    left: 445px;
+    border: 0px solid red;
+    background-color: orange;
+    text-align: center;
+    font-size: smaller;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+.table2{
+    padding: 20px 20px 18px;
+    position: absolute;
+    top: 180px;
+    left: 683px;
+    border: 0px solid red;
+    background-color: skyblue;
+    text-align: center;
+    font-size: smaller;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+.table3{
+    padding: 20px 20px;
+    position: absolute;
+    top: 420px;
+    left: 444px;
+    border: 0px solid rgb(14, 13, 13);
+    background-color: tomato;
+    font-size: smaller;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+.table31{
+    padding: 0px 20px 20px 20px;
+    position: absolute;
+    top: 510px;
+    left: 444px;
+    border: 0px solid rgb(14, 13, 13);
+    background-color: tomato;
+    text-align: justify;
+    font-size: smaller;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+.table4{
+    padding: 10px 13px 23px 20px;
+    position: absolute;
+    top: 608px;
+    left: 443px;
+    border: 0px solid red;
+    background-color:rgb(60, 157, 196);
+    text-align: justify;
+    font-size: smaller;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    width: 17.8%;
+}
+.table41{
+    padding: 20px 20px 20px 0px;
+    position: absolute;
+    top: 608px;
+    left: 683px;
+    border: 0px solid red;
+    background-color:rgb(60, 157, 196);
+    text-align: justify;
+    font-size: smaller;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    width: 15%;
+}
+.table5{
+    padding: 15px 20px 20px;
+    position: absolute;
+    top: 840px;
+    left: 443px;
+    border: 0px solid red;
+    background-color: rgb(252, 90, 62);
+    text-align: center;
+    font-size: smaller;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    width: 16%;
+}
+.table51{
+    padding: 20px 20px 25px ;
+    position: absolute;
+    top: 840px;
+    left: 656px;
+    border: 0px solid red;
+    background-color: goldenrod;
+    text-align: center;
+    font-size: smaller;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    width: 17%;
+}
+.table6{
+    padding: 20px;
+    position: absolute;
+    top: 11.4in;
+    left: 4.6in;
+    border: 0px solid red;
+    background-color: rgb(42, 170, 221);
+    text-align: left;
+    font-size: smaller;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    width: 32.8%;
+}
+.table7{
+    padding: 20px;
+    position: absolute;
+    top: 33.8cm;
+    left: 11.7cm;
+    border: 0px solid red;
+    background-color: rgb(247, 152, 9);
+    text-align: left;
+    font-size: smaller;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    width: 32.8%;
+}
+.table8{
+    padding: 17px;
+    position: absolute;
+    top: 38.6cm;
+    left: 11.7cm;
+    border: 0px solid red;
+    background-color: rgb(42, 170, 221);
+    text-align: center;
+    font-size: smaller;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    width: 16.5%;
+}
+.table81{
+    padding: 15px;
+    position: absolute;
+    top: 38.6cm;
+    left: 17.5cm;
+    border: 0px solid red;
+    background-color: rgb(252, 90, 62);
+    text-align: center;
+    font-size: smaller;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    width: 16.5%;
+}
